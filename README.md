@@ -1,6 +1,6 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6499E9&height=90&section=header"/>
 <div align="center">
-    <h1>Bui Quoc Cuong <img src="https://qucuongdev-portfolio.vercel.app/" alt="web" width="25" height="25" /></h1>
+    <h1>Bui Quoc Cuong <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="25" height="25" /></h1>
   <h3>Software Engineer 🌐 | Frontend Developer 💻</h3>
 </div>
 
@@ -24,7 +24,7 @@
 
 <!-- Show Tech Stack directly -->
 <h2 align="center">
-  <img src="https://qucuongdev-portfolio.vercel.app/" alt="Laptop" width="30" height="30" /> Tech Stack
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="30" height="30" /> Tech Stack
 </h2>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; text-align: center;">
