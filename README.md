@@ -8,7 +8,7 @@
   <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="500" />
   <div style="max-width: calc(100% - 420px);">
     <h3> 🐦‍🔥 About me:</h3>
-    <p> 👨‍💻 Looking for Job. Hire me <a href="https://qucuongdev-portfolio.vercel.app/" target="_blank">@qucuongdev</a></p>
+    <p> 👨‍💻 Looking for Job. Hire me <a href="https://portfolio-qucuongdev.vercel.app/" target="_blank">@qucuongdev</a></p>
     <p> 🌱 Currently learning NodeJs & VueJs</p>
     <p> 💖 Interests:  Tech💻, LoL🎮</p>
     <b> 📫 Reach me at: </b><br> 
